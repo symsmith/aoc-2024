@@ -1,0 +1,6 @@
+{
+  "name": "aoc-2024",
+  "devDependencies": {
+    "@types/bun": "^1.1.14"
+  }
+}
